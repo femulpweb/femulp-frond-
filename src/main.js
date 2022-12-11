@@ -38,7 +38,8 @@ Vue.use(MazPhoneNumberInput);
 //Vue.LoadScript('');
 
 //Vue.prototype.$hostname = "https://app-femulp.herokuapp.com"
-    Vue.prototype.$hostname="http://localhost:3000"
+    //Vue.prototype.$hostname="http://localhost:3000"
+ Vue.prototype.$hostname = "https://femullapp-usf9.onrender.com"
 
 
 
